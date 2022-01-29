@@ -26,7 +26,7 @@ a simple react slide show
 
 ## Screenshot
 
-![ScreenShot](https://github.com/dnsghd49/reactSlideShow/tree/main/public/screenshot.png)
+![ScreenShot](https://github.com/dnsghd49/reactSlideShow/blob/main/public/screenshot.png)
 
 ## Installation
 
