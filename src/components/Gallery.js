@@ -1,6 +1,7 @@
 function Gallery(props) {
     return (
         <div style={{ 'width': '100%' }}>
+            <h1>e-Gall</h1>
             <img src={props.objectImg} alt={props.title} />
             <p>{props.artist}</p>
         </div>
